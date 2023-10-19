@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Daisuke Shioda
 import sys
 ans = 0
 for line in sys.stdin:
