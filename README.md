@@ -1,5 +1,5 @@
 # robosys2023
-ロボットシステム学2023
+ロボットシステム学2023の授業内で使われるリポジトリ
 
 # plusコマンド
 [![test](https://github.com/Daisuke-joho/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/Daisuke-joho/robosys2023/actions/workflows/test.yml)
