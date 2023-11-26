@@ -10,7 +10,7 @@
 * インストール
 * $ git clone https://github.com/Daisuke-joho/robosys2023.git
 * $ cd robosys2023 
-* $ seq 10 |./plus
+* $ seq 10 | ./plus
 
 
 ## 必要なソフトウェア
